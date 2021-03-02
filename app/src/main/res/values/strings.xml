@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Amaro</string>
+    <string name="home">Home</string>
+    <string name="buy">Comprar</string>
+    <string name="wish">Desejos</string>
+    <string name="guides">Guides</string>
+    <string name="account">Conta</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+<string-array name="sizeView">
+    <item>P</item>
+    <item>PP</item>
+    <item>M</item>
+    <item>G</item>
+    <item>GG</item>
+    <item>XG</item>
+</string-array>
+    <string name="clothes_title">title product</string>
+    <string name="installments">installments</string>
+    <string name="price">regular_price</string>
+    <string name="name_product">productName</string>
+    <string name="size_pp">PP</string>
+    <string name="size_p">P</string>
+    <string name="size_m">M</string>
+    <string name="size_g">G</string>
+    <string name="size_gg">GG</string>
+    <string name="size_u">U</string>
+    <string name="sizes">TAMANHO</string>
+</resources>
