@@ -1,28 +1,18 @@
 # clothes_android
 
-Objetivo: Construir um site que exiba um catálogo de roupas da Amaro.
+Objective: Build a website that displays an Amaro clothing catalog.
 
-Linguagem: Kotlin.
+Language: Kotlin.
 
-O código está escrito em inglês.
+The code is written in English.
 
-Os commits estão no imperativo, primeira letra maiúscula e em inglês.
+Commits are in imperative, capitalized first letter and in English.
 
 Api: http://www.mocky.io/v2/59b6a65a0f0000e90471257d
 
-O app tem duas telas:
+The app has two screens:
 
-Listagem das roupas exibindo nome e foto;
-Tela com as informações detalhadas da roupa selecionada na tela 1.
-As informações da roupa que devem ser exibidas na tela 2 são:
+Clothing listing showing name and photo; Screen with the detailed information of the selected clothing on screen 1. The clothing information that should be displayed on screen 2 is:
 
-Imagem;
-Nome;
-Preço;
-Status de promoção;
-Preço promocional (se houver);
-Parcelamentos disponíveis;
-Tamanhos disponíveis.
-Pontos importantes:
-Qualquer outro atributo que vier na api, que não represente os citados,foi ignorado.
-Caso exista um preço promocional,estará exibindo uma tag de promoção e "cortando" o preço regular.
+Image; Name; Price; Promotion status; Promotional price (if any); Installments available; Available sizes. 
+* Important points: Any other attribute that comes in the api, which does not represent the mentioned ones, was ignored. If there is a promotional price, it will be displaying a promotion tag and "cutting" the regular price.
